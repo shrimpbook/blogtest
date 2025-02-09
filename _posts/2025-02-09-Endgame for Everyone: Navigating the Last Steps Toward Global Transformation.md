@@ -1,7 +1,7 @@
 ---
 title: Endgame for Everyone: Navigating the Last Steps Toward Global Transformation
 date: 2025-02-09
-categories: [Stock Market Analysis, Economy]
+categories: [Economic Insights]
 tags: [stock market, economy, market analysis, investment, 2025, Transformation, Great Shift]
 ---
 
