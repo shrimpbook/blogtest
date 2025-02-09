@@ -1,8 +1,3 @@
----
-layout: default
-title: "Categories"
----
-
 # Categories
 
 ## Stock Market Analysis
