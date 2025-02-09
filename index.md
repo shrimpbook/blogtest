@@ -2,7 +2,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
----
+## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
+Hello, I'm ShrimpK! 👋
+Welcome to my digital space, a continuously evolving garden of insights and explorations focused on the **Stock Market, Economy, and Dark Fantasy** realms.
 
 ## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
 
