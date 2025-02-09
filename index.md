@@ -46,7 +46,7 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ## Latest Blog Posts:
 
-*   **[Endgame for Everyone: Navigating the Last Steps Toward Global Transformation](https://shrimpbook.github.io/AltContents/economic%20insights/2025/02/09/Endgame-for-Everyone-Navigating-the-Last-Steps-Toward-Global-Transformation.html)** - [Analyzing the latest inflation data and key economic factors]
+*   **[Endgame for Everyone: Navigating the Last Steps Toward Global Transformation](_posts/2025-02-09-Endgame-for-Everyone-Navigating-the-Last-Steps-Toward-Global-Transformation.md)** - [Analyzing the latest inflation data and key economic factors]
 
 *   [Placeholder for Latest Blog Post 2] - [Short, engaging title of blog post 2 - Placeholder]
 
