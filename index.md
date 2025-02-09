@@ -1,6 +1,6 @@
 -----
 
-## ShrimpK's Digital Space 🪴 - Stock Market, Economy, & Dark Fantasy
+## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
 
 Hello, I'm ShrimpK\! 👋
 
@@ -32,15 +32,11 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ## Explore by Category:
 
-*   **[Stock Market Analysis](https://www.google.com/url?sa=E&source=gmail&q=#stock-market-analysis)** -  In-depth analyses of market trends, stock valuations, and investment strategies.
-
-*   **[Economic Insights](https://www.google.com/url?sa=E&source=gmail&q=#economic-insights)** -  Perspectives on economic events, policy impacts, and broader economic trends.
-
-*   **[Dark Fantasy Reviews](https://www.google.com/url?sa=E&source=gmail&q=#dark-fantasy-reviews)** -  Critical reviews and explorations of books, movies, games, and other media in the dark fantasy genre.
-
-*   **[Related Articles](https://www.google.com/url?sa=E&source=gmail&q=#related-articles)** -  Essays and articles connecting stock market, economy, and dark fantasy themes to broader topics.
-
-*   **[Data & Resources](https://www.google.com/url?sa=E&source=gmail&q=#data-resources)** -  Downloadable datasets, useful links, and tools related to the content shared on this site.
+*   **[Stock Market Analysis](#stock-market-analysis)** -  In-depth analyses of market trends, stock valuations, and investment strategies.
+*   **[Economic Insights](#economic-insights)** -  Perspectives on economic events, policy impacts, and broader economic trends.
+*   **[Dark Fantasy Reviews](#dark-fantasy-reviews)** -  Critical reviews and explorations of books, movies, games, and other media in the dark fantasy genre.
+*   **[Related Articles](#related-articles)** -  Essays and articles connecting stock market, economy, and dark fantasy themes to broader topics.
+*   **[Data & Resources](#data-resources)** -  Downloadable datasets, useful links, and tools related to the content shared on this site.
 
 ---
 
