@@ -30,19 +30,9 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ---
 
-## Explore by Category:
-
-*   **[Stock Market Analysis](#stock-market-analysis)** -  In-depth analyses of market trends, stock valuations, and investment strategies.
-*   **[Economic Insights](#economic-insights)** -  Perspectives on economic events, policy impacts, and broader economic trends.
-*   **[Dark Fantasy Reviews](#dark-fantasy-reviews)** -  Critical reviews and explorations of books, movies, games, and other media in the dark fantasy genre.
-*   **[Related Articles](#related-articles)** -  Essays and articles connecting stock market, economy, and dark fantasy themes to broader topics.
-*   **[Data & Resources](#data-resources)** -  Downloadable datasets, useful links, and tools related to the content shared on this site.
-
----
-
 ## Latest Blog Posts:
 
-*   **[Endgame for Everyone: Navigating the Last Steps Toward Global Transformation](_posts/2025-02-09-Endgame_for_Everyone_Navigating_the_Last_Steps_Toward_Global_Transformation.md)** - [Analyzing the latest inflation data and key economic factors]
+*   **[Endgame for Everyone: Navigating the Last Steps Toward Global Transformation](https://shrimpbook.github.io/AltContents/economic%20insights/2025/02/09/Endgame-for-Everyone-Navigating-the-Last-Steps-Toward-Global-Transformation.html)** - [Analyzing the latest inflation data and key economic factors]
 
 *   [Placeholder for Latest Blog Post 2] - [Short, engaging title of blog post 2 - Placeholder]
 
@@ -62,4 +52,4 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ---
 
-Feel free to explore the garden, delve into the content, and connect with me\! 🪴
+Feel free to explore the garden, delve into the content, and connect with me\! 
