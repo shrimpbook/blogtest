@@ -1,4 +1,3 @@
-```markdown
 -----
 
 ## title: ShrimpK's Digital Space 🪴 - Stock Market, Economy, & Dark Fantasy
