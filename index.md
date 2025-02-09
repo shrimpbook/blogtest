@@ -1,6 +1,6 @@
 -----
 
-## ShrimpK's Digital Space 🪴 - Stock Market, Economy, & Dark Fantasy
+## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
 
 Hello, I'm ShrimpK\! 👋
 
