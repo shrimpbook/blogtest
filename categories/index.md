@@ -3,7 +3,7 @@ layout: default
 title: "Categories"
 ---
 
-## Explore by Category:
+## Category:
 
 *   **[Stock Market Analysis](#stock-market-analysis)** -  In-depth analyses of market trends, stock valuations, and investment strategies.
 *   **[Economic Insights](#economic-insights)** -  Perspectives on economic events, policy impacts, and broader economic trends.
