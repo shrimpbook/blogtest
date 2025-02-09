@@ -3,10 +3,6 @@
 </head>
 
 ## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
-Hello, I'm ShrimpK! 👋
-Welcome to my digital space, a continuously evolving garden of insights and explorations focused on the **Stock Market, Economy, and Dark Fantasy** realms.
-
-## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
 
 Hello, I'm ShrimpK\! 👋
 
@@ -46,7 +42,8 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ---
 
-## Connect with ShrimpK
+<footer>
+Connect with ShrimpK
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
     <ul style="list-style: none; padding: 0;">
@@ -64,7 +61,6 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
         </li>
     </ul>
 </div>
-
----
+</footer>
 
 Feel free to explore the garden, delve into the content, and connect with me\! 
