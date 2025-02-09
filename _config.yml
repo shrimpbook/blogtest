@@ -6,7 +6,3 @@ description: Contents provider
 collections:
   posts:
     output: true
-
-categories:
-  Economic Insights:
-    - _posts
