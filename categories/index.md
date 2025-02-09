@@ -1,5 +1,5 @@
-categories
 
+categories
 ## Stock Market Analysis
 
 Explore posts related to global stock trends, financial analysis, and market dynamics.
