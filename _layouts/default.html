@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <nav>
+        <ul>
+          {% for category in site.categories %}
+          <li><a href="{{ site.baseurl }}/categories/{{ category[0] | downcase }}">{{ category[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+</body>
+</html>
