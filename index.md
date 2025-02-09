@@ -1,4 +1,6 @@
------
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 
 ## ShrimpK's Digital Space - Stock Market, Economy, & Dark Fantasy
 
@@ -42,13 +44,22 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ## Connect with ShrimpK
 
-*   [GitHub Profile (Will be added later)]
-
-*   [Twitter/X Profile (Will be added later)]
-
-*   [LinkedIn Profile (Will be added later)]
-
-*   [Personal Website (Will be added later)]
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+    <ul style="list-style: none; padding: 0;">
+        <li>
+            <i class="fab fa-github"></i> 
+            <a href="#" target="_blank">GitHub Profile (Will be added later)</a>
+        </li>
+        <li>
+            <i class="fab fa-twitter"></i> 
+            <a href="#" target="_blank">Twitter/X Profile (Will be added later)</a>
+        </li>
+        <li>
+            <i class="fas fa-globe"></i> 
+            <a href="#" target="_blank">Personal Website (Will be added later)</a>
+        </li>
+    </ul>
+</div>
 
 ---
 
