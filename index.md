@@ -43,8 +43,6 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 ---
 
 <footer>
-Connect with ShrimpK
-
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
     <ul style="list-style: none; padding: 0;">
         <li>
