@@ -42,16 +42,11 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ## Latest Blog Posts:
 
-{% for post in site.posts %}
-* **[{{ post.title }}]({{ post.url }})** - {{ post.excerpt }}
-{% endfor %}
+*   **[Endgame for Everyone: Navigating the Last Steps Toward Global Transformation](_posts/2025-02-09-Endgame_for_Everyone_Navigating_the_Last_Steps_Toward_Global_Transformation.md)** - [Analyzing the latest inflation data and key economic factors]
 
-## Economic Insights:
+*   [Placeholder for Latest Blog Post 2] - [Short, engaging title of blog post 2 - Placeholder]
 
-{% assign economic_posts = site.categories['Economic Insights'] %}
-{% for post in economic_posts %}
-* **[{{ post.title }}]({{ post.url }})** - {{ post.excerpt }}
-{% endfor %}
+*   [Placeholder for Latest Blog Post 3] - [Short, engaging title of blog post 3 - Placeholder]
 
 ---
 
