@@ -62,4 +62,4 @@ Here, you'll find a curated collection of my resources, neatly categorized for e
 
 ---
 
-Feel free to explore the garden, delve into the content, and connect with me\! 🪴
+Feel free to explore the garden, delve into the content, and connect with me\! 
