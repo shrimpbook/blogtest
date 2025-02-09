@@ -1,4 +1,5 @@
-# Categories
+---
+Categories
 ---
 
 ## Stock Market Analysis
