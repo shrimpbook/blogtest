@@ -1,5 +1,5 @@
 ---
-Categories
+
 ---
 
 ## Stock Market Analysis
