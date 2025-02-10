@@ -1,8 +1,20 @@
 import os
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtubesearchpython import VideosSearch
 
-# Define video IDs
-VIDEO_IDS = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3']
+# Define channel ID and keywords
+CHANNEL_ID = 'YOUR_CHANNEL_ID'
+KEYWORDS = 'your keywords'
+
+def search_videos_by_keyword(keywords, max_results=3):
+    search = VideosSearch(keywords, limit=max_results)
+    results = search.result()
+    video_ids = []
+    for result in results['result']:
+        # Check if the video is from the specified channel
+        if result['channel']['id'] == CHANNEL_ID:
+            video_ids.append(result['id'])
+    return video_ids
 
 def fetch_transcript(video_id):
     try:
@@ -33,7 +45,8 @@ def save_markdown(content, filename):
         file.write(content)
 
 if __name__ == "__main__":
-    transcripts = [fetch_transcript(video_id) for video_id in VIDEO_IDS]
+    video_ids = search_videos_by_keyword(KEYWORDS)
+    transcripts = [fetch_transcript(video_id) for video_id in video_ids]
     analysis = analyze_transcripts(transcripts)
     markdown_content = generate_markdown(analysis)
     save_markdown(markdown_content, os.path.join('_posts', '2025-02-10-analysis.md'))
